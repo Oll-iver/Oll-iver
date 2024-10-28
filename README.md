@@ -13,7 +13,7 @@ Databases: MySQL, MongoDB
 Other: GCP, RESTful APIs, Matplotlib, Seaborn, Pandas  
   
 📚 Education  
-Currently first-year mathematics student, set to graduate in '26.   
+Currently second-year mathematics student, set to graduate in '26.   
 Average over 80% in programming modules involving Matlab, R, Python, and algorithms and data structures.  
   
 🌐 Connect With Me  
